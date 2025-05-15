@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![banner](https://raw.githubusercontent.com/LeoVeig4/LeoVeig4/main/assets/header.png)
+![banner](https://github.com/LeoVeig4/LeoVeig4/blob/main/fullstack.png)
 
 <h1 align="center">Hi, I’m Leonardo&nbsp;da&nbsp;Veiga&nbsp;👋</h1>
 <p align="center">
